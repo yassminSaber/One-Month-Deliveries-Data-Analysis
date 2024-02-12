@@ -33,8 +33,8 @@ we can estimate the number of active users and drivers by counting the number of
 <img src = "https://github.com/yassminSaber/One-Month-Deliveries-Data-Analysis/blob/main/profits.png" width = 700  hight = 200 />
 
 ### Region distribution
-0: Gizza
-1: Maadi
-2: Nasr City
-3: None
-<img src ="https://github.com/yassminSaber/One-Month-Deliveries-Data-Analysis/blob/main/numberOrders_regions.png" width = 700 hiight = 200 />
+- 0: Gizza
+- 1: Maadi
+- 2: Nasr City
+- 3: None
+- <img src ="https://github.com/yassminSaber/One-Month-Deliveries-Data-Analysis/blob/main/numberOrders_regions.png" width = 700 hiight = 200 />
